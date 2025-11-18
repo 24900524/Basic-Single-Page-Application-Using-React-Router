@@ -1,6 +1,6 @@
-🚀 Basic Single Page Application (SPA) Using React Router
+# 🚀 Basic Single Page Application (SPA) Using React Router
 
-This project is a **React-based Single Page Application** featuring:
+### This project is a **React-based Single Page Application** featuring:
 
 * Home Page
 * Login Page
