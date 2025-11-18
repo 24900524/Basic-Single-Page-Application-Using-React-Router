@@ -1,18 +1,4 @@
-Sure! Here is the **correct and clean way** to update your project output (screenshots, description, steps, features, preview) in your **README.md** file.
-
-You can **copy-paste** this template and modify it for your SPA project.
-
----
-
-# 📘 **README.md Template (Updated with Output Section)**
-
-Below is a high–quality README designed for your **Single Page Application (SPA) using React Router**.
-
-You can paste this directly into your `README.md` file.
-
----
-
-# 🚀 Basic Single Page Application (SPA) Using React Router
+🚀 Basic Single Page Application (SPA) Using React Router
 
 This project is a **React-based Single Page Application** featuring:
 
